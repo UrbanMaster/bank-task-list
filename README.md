@@ -9,7 +9,8 @@ Build an application resembling a bank.
 
 
 ##1. Classical architecture:
-Tech Stack: Spring, Postgres, Hibernate, http, REST
+Tech Stack: Spring, Postgres, Hibernate, http, REST.  
+Implementation: https://github.com/UrbanMaster/bank-classical
 
 ##2. Reactive architecture:
 Tech Stack: Postgres, ???
